@@ -1,8 +1,6 @@
 # colorChoiceTool
 颜色选择器（根据背景颜色更改主题文本颜色）
 
-# colorChoiceTool
-颜色选择器（根据背景颜色更改主题文本颜色）
 
 `一行代码搞定`
 
