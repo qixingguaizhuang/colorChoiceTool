@@ -7,7 +7,7 @@
 ```
 设置背景图片、文本
 
-- (void)setTextColor:(UIImageView *)bgImage whith:(UILabel *)textLabel;
+- (void)setImageTextColor:(UIImageView *)bgImage withLabel:(UILabel *)textLabel;
 
 ```
 
